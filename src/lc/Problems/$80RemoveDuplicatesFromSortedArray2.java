@@ -1,4 +1,6 @@
 package lc.Problems;
+
+//TC:O(n),SC:O(1)
 public class $80RemoveDuplicatesFromSortedArray2 {
 public static void main(String[] args) {
 	int nums[] = {1,1,2,2,2,2,3,3,4,4};
