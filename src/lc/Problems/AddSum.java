@@ -16,8 +16,8 @@ import java.util.Arrays;
 
 public class AddSum {
 	public static void main(String[] args) {
-		int[] nums= {2,7,11,15};
-		int target=9;
+		int[] nums= {2,4,6,8};
+		int target=10;
 		int[] x=twoSum(nums,target);
 		System.out.println(Arrays.toString(x));
 		}
