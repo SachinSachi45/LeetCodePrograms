@@ -3,7 +3,7 @@ package lc.Problems;
 public class $35SearchInsert {
 	public static void main(String[] args) {
 		int [] nums= {1,3,5,7};
-		int target=8;
+		int target=5;
 		System.out.println(search(nums,target));
 	}
 
